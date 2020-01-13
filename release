@@ -1,8 +1,9 @@
-
-Origin: Q1-repo
-Label:  Q1-repo
+Origin: Q1-hamd Repo
+Label: Q1-hamd Repo
 Suite: stable
 Version: 1.0
+Codename: Q1-hamd Repo
 Architectures: iphoneos-arm
 Components: main
-Description: الادوات المساعدة والهامة
+Description: My Personal Repo
+Icon: file://CydiaIcon.png
